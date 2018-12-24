@@ -1,2 +1,2 @@
-# Flutter-Guidelines
-Suggested Architecture and Code guidelines for Flutter Projects
+# Flutter Code Style Guide
+List of Guidelines When Developing with Flutter
