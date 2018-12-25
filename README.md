@@ -1,10 +1,10 @@
 # Flutter Code Style Guide
 List of Guidelines When Developing with Flutter
 
-* [Writing Flutter UI]
-* [Project Structure]
-* [Architecture Guidelines]
-* [Dart Code Guidelines]
+* [Writing Flutter UI](Guidelines/flutter_ui.md)
+* [Project Structure](Guidelines/project_structure.md)
+* [Architecture Guidelines](Guidelines/architecture.md)
+* [Dart Code Guidelines](Guidelines)
 
 ```
 Copyright 2018 Byneapp, LLC.
